@@ -1,6 +1,3 @@
-# nautilus-regex-select
-Select files by matching their content with regex. A Nautilus extension.
-
 # Regex Search For Nautilus
 
 An extension for Nautilus. Open, move, copy, or delete files that satisfy regex matching either in their content or their filename, or both! right from the nautilus right-click nenu.
