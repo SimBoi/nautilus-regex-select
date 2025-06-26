@@ -16,7 +16,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 	sudo apt install -y git curl python3-nautilus python3-charset-normalizer
 	# 2. download the extension script
 	mkdir -p ~/.local/share/nautilus-python/extensions
-	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py https://raw.githubusercontent.com/simboi/nautilus-git-operations/main/nautilus-git-operations.py
+	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-regex-select.py https://raw.githubusercontent.com/simboi/nautilus-regex-select/main/nautilus-regex-select.py
 	# 3. restart nautilus
 	nautilus -q
 	```
@@ -26,7 +26,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 
 1. Run in the terminal:
 	```bash
-	rm -f ~/.local/share/nautilus-python/extensions/nautilus-git-clone.py
+	rm -f ~/.local/share/nautilus-python/extensions/nautilus-regex-select.py
 	# restart Nautilus
 	nautilus -q
 	````
