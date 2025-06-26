@@ -1,6 +1,6 @@
 # Regex Search For Nautilus
 
-An extension for Nautilus. Open, move, copy, or delete files that satisfy regex matching either in their content or their filename, or both! right from the nautilus right-click nenu.
+An extension for Nautilus. Open, move, copy, or delete files that satisfy regex matching either against their content or against their filenames, or both! right from the nautilus right-click nenu.
 
 Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-extension-collection).
 
